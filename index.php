@@ -1,4 +1,7 @@
 <?php
+//Example Usage
+new GitDL('https://github.com/lcherone/GitDL');
+
 /**
  * GitHub Project/Repository Downloader proxy.
  * This class will handle downloading, removing master folder prefix, 
